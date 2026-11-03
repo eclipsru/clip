@@ -1,0 +1,5 @@
+# intermediate renders, caches and tooling
+work/
+__pycache__/
+*.pyc
+.DS_Store
